@@ -4,7 +4,7 @@ Sumber Data : https://www.kaggle.com/datasets/wenchik/gender-labelled-panoramic-
 Tugas Besar Deep Learning
 
 Kelompok 20 
-Farah Faizah       - 121450002
+Farah Faizah       - 121450002 //
 Asrizal            - 121450010
 Meliza wulandari   - 121450065
 Andrian Agustinus  - 121450090
